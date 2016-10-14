@@ -1,0 +1,46 @@
+
+
+
+
+.baker {
+	color:#000 !important; background-color:#e9fffd !important
+	width:20px;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+
+.baker2{
+
+	color:#000 !important;
+	width:20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+html {
+background-color: rgb(225, 225, 200);
+
+
+}
+
+body{margin:auto;}
+div{margin:auto;}
+footer{padding-left: 125px;
+font-size: 80%;}
+header{padding-left: 125px;}
+
+section{color:#000 !important; background-color:#e9fffd !important
+}
+
+img:hover{
+
+	height: 215px;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;}
+
+p:hover{
+
+font-weight: bold;
+}
